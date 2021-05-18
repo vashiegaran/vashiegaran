@@ -1,6 +1,8 @@
 
 ### Degree in Computer Science Majoring Game Development (Multimedia University)
-### 
+### TECHINCAL SKILLS:       Machine Learning, Unity, Linux, NoSQL Database, Docker.
+### PROGRAMMING LANGUAGES:  Python, C++, Java, C#, Javascript
+
 
 <!--
 **vashiegaran/vashiegaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
